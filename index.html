@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Quote Generator</title>
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>Quote of the Day</header>
+      <div class="content">
+        <div class="quote-area">
+          <i class="fas fa-quote-left"></i>
+          <p class="quote">Quote</p>
+          <i class="fas fa-quote-right"></i>
+        </div>
+
+        <div class="category">
+          <span>__</span>
+          <span class="name">Category</span>
+        </div>
+        <div class="select-category">
+          <h4 class="category-heading"><p>Select Category</p></h4>
+
+          <div id="quote-container"></div>
+          <button class="increase-button" onclick="increaseFontSize()">
+            Increase
+          </button>
+          <button class="decrease-button" onclick="decreaseFontSize()">
+            Decrease
+          </button>
+
+          <select class="select-categories" name="categories" id="categories">
+            <option value="" disabled selected>Select Category</option>
+            <option value="Motivational">Motivational</option>
+            <option value="Knowledge">Knowledge</option>
+            <option value="Funny">Funny</option>
+          </select>
+        </div>
+      </div>
+      <div class="buttons">
+        <div class="features">
+          <ul>
+            <li class="arrow-left">
+              <i class="fas fa-arrow-left"></i>
+            </li>
+            <li class="arrow-right">
+              <i class="fas fa-arrow-right"></i>
+            </li>
+            <li>
+              <img src="images/moon.png " id="icon" />
+            </li>
+          </ul>
+          <button class="query-button" onclick="randomQuote()">
+            Generate Random Quote
+          </button>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

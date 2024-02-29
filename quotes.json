@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "category": "Motivational",
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+    },
+    {
+        "id": 2,
+        "category": "Knowledge",
+        "quote": "The only true wisdom is in knowing you know nothing."
+    },
+    {
+        "id": 3,
+        "category": "Funny",
+        "quote": "I told the doctor I broke my leg in two places. He told me to quit going to those places."
+    },
+    {
+        "id": 4,
+        "category": "Motivational",
+        "quote": "Believe you can and you're halfway there."
+    },
+    {
+        "id": 5,
+        "category": "Knowledge",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+    },
+    {
+        "id": 6,
+        "category": "Funny",
+        "quote": "I'm writing a book. I've got the page numbers done."
+    },
+    {
+        "id": 7,
+        "category": "Motivational",
+        "quote": "Your time is limited, don't waste it living someone else's life."
+    },
+    {
+        "id": 8,
+        "category": "Knowledge",
+        "quote": "The only thing that interferes with my learning is my education."
+    },
+    {
+        "id": 9,
+        "category": "Funny",
+        "quote": "I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked for forgiveness."
+    },
+    {
+        "id": 10,
+        "category": "Motivational",
+        "quote": "The future belongs to those who believe in the beauty of their dreams."
+    },
+    {
+        "id": 11,
+        "category": "Knowledge",
+        "quote": "In the end, it's not the years in your life that count. It's the life in your years."
+    },
+    {
+        "id": 12,
+        "category": "Funny",
+        "quote": "I'm not lazy, I'm just on my energy-saving mode."
+    },
+    {
+        "id": 13,
+        "category": "Motivational",
+        "quote": "You miss 100% of the shots you don't take."
+    },
+    {
+        "id": 14,
+        "category": "Knowledge",
+        "quote": "The only source of knowledge is experience."
+    },
+    {
+        "id": 15,
+        "category": "Funny",
+        "quote": "If at first, you don't succeed, then skydiving definitely isn't for you."
+    }
+]
